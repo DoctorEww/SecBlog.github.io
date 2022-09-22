@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://doctoreww.github.io/SecBlog.github.io/sitemap.xml
