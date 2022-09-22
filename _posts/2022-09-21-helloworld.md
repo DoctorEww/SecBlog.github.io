@@ -8,7 +8,7 @@ tags: [misc]     # TAG names should always be lowercase
 
 ## Hello There
 
-My name is Drew Griess and I wanted to have a place to give back and share what I have learned to the cyber community. 
+My name is Drew Griess and I wanted to have a place to give back and share what I have learned to the cyber community. Thus, I created this blog.
 
 Right now, there is not much to see here... I mean, this is just a test of my blog's posting system. For this blog I used the template [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ~~to get out of the web development part of this project~~ because it looks really cool. 
 
